@@ -53,14 +53,16 @@
    git clone https://github.com/yourusername/enzo
    cd enzo
 
-2.```bash 
+2.Install Pre-Requisites
+   ```bash 
    pip install -r requirements.txt
- 
-4. python app/main.py
-   
-5.```bash
+   ```
+
+3. Setup React
+```bash
    cd mobile
    npx react-native run-android
+```
 
 ## 👨‍💻 Open Sourced by Kapil Neela
 “Making AI truly interactive, intuitive, and intelligent.”
