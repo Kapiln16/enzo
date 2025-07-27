@@ -28,14 +28,19 @@
 
 ---
 
-## 📚 Project Structure
-/enzo
-├── app/ # Flask web server
-├── mobile/ # React Native CLI app
-├── models/ # PyTorch models
-├── commands/ # Command brain and parser
-├── static/ # Web interface assets 
+## 📁 Folder Structure
+
+```
+enzo/
+├── app/              → Flask API backend
+├── mobile/           → React Native CLI app
+├── models/           → PyTorch NLP models
+├── commands/         → Modular brain commands
+├── static/           → Web UI assets
 └── README.md
+```
+
+---
 
 
 ## Models are built using:
@@ -64,18 +69,14 @@
    npx react-native run-android
 ```
 
-##👥 Contributing
+## 👥 Contributing
 Contributions are welcome! Here’s how:
 
-Fork the repository
-
-Create a new branch (git checkout -b feature-name)
-
-Make your changes
-
-Commit and push (git commit -m 'Add feature')
-
-Open a pull request with a description of your changes
+- Fork the repository
+- Create a new branch (git checkout -b feature-name)
+- Make your changes
+- Commit and push (git commit -m 'Add feature')
+- Open a pull request with a description of your changes
 
 
 ## 👨‍💻 Open Sourced by Kapil Neela
@@ -85,14 +86,10 @@ Twitter: @x_opkapil
 
 GitHub: Kapiln16
 
+<img src="https://i.ibb.co/ShvfHqT/Aesthetic-Twitter-Header-3.png" alt="Aesthetic-Twitter-Header-3" border="0">
+
 
 ---
-
-Let me know if you want to add:
-- License section
-- Contribution guide
-- Dataset references  
-I can also generate a custom logo/banner for Enzo if you’d like!
 
 
 
