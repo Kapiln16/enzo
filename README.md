@@ -82,6 +82,8 @@ Contributions are welcome! Here’s how:
 ## 👨‍💻 Open Sourced by Kapil Neela
 “Making AI truly interactive, intuitive, and intelligent.”
 
+Join Community : https://discord.gg/BrBp73KnxK
+
 Twitter: @x_opkapil
 
 GitHub: Kapiln16
