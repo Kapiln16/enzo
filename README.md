@@ -53,11 +53,13 @@
    git clone https://github.com/yourusername/enzo
    cd enzo
 
-2. pip install -r requirements.txt
+2.```bash 
+   pip install -r requirements.txt
  
-3. python app/main.py
+4. python app/main.py
    
-4. cd mobile
+5.```bash
+   cd mobile
    npx react-native run-android
 
 ## 👨‍💻 Open Sourced by Kapil Neela
