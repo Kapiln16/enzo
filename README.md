@@ -23,7 +23,7 @@
 | Frontend      | React Native (CLI), Tailwind, Flask HTML   |
 | Backend       | Python (Flask), PyTorch, Supabase          |
 | AI/ML         | PyTorch NLP, Intent Classification Models  |
-| Auth & Data   | Supabase (Auth + DB), localStorage         |
+| Auth & Data   | localStorage, TBD                          |
 | Dev Tools     | VS Code Extension, GitHub Actions          |
 
 ---
